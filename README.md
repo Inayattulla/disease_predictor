@@ -22,7 +22,7 @@ A Machine Learning web application that predicts the most likely disease based o
 
 - UCI Heart Disease Dataset
 - Pima Indians Diabetes Dataset
-- *(or the dataset you actually used)*
+
 
 ## ⚙️ Installation
 
